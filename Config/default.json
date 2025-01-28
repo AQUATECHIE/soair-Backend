@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://Aqua:Amole2002@cluster0.fhi8sol.mongodb.net/Platinum_broker?retryWrites=true"
+    "mongoURI" : "mongodb+srv://Aqua:Amole2002@cluster0.fhi8sol.mongodb.net/Platinum_broker?retryWrites=true",
+    "jwtSecret" : "mysecrettoken"
 }
